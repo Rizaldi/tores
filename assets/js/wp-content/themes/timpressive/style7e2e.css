@@ -1,0 +1,16 @@
+body {
+	font-family: Segoe UI;
+}
+.ContactList li { 
+color: #000000!important;
+
+}
+.alignleft, img.alignleft { 
+float: left!important;
+margin: 0px 20px 20px 5px;
+}
+
+.alignright, img.alignright { 
+float: right!important;
+margin: 5px 0px 20px 20px;
+}
